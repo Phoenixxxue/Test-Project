@@ -8,6 +8,7 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+[Ll]UserSettings/
 [Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
@@ -59,3 +60,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 Test Project/UserSettings/EditorUserSettings.asset
+
